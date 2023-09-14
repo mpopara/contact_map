@@ -38,3 +38,7 @@ contacts_map.py is a python script built on Python 3.8.8. Script was tested unde
 * numpy 1.23.0
 * mdtraj 1.9.4
 * matplotlib 3.7.1
+
+## Authors
+
+* Milana Popara
